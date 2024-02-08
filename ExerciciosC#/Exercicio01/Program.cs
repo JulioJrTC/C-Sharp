@@ -5,4 +5,4 @@ Console.Write("Digite seu nome: ");
 String nomePessoa=Console.ReadLine();
 
 //Imprimindo a resposta
-Console.WriteLine("Olá " + nomePessoa + "!");
+Console.WriteLine($"Olá {nomePessoa}!");

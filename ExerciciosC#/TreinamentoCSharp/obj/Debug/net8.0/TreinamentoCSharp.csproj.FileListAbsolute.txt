@@ -1,0 +1,15 @@
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\TreinamentoCSharp\obj\Debug\net8.0\TreinamentoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\TreinamentoCSharp\obj\Debug\net8.0\TreinamentoCSharp.AssemblyInfoInputs.cache
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\TreinamentoCSharp\obj\Debug\net8.0\TreinamentoCSharp.AssemblyInfo.cs
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\TreinamentoCSharp\obj\Debug\net8.0\TreinamentoCSharp.csproj.CoreCompileInputs.cache
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\TreinamentoCSharp\obj\Debug\net8.0\TreinamentoCSharp.sourcelink.json
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\TreinamentoCSharp\bin\Debug\net8.0\TreinamentoCSharp.exe
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\TreinamentoCSharp\bin\Debug\net8.0\TreinamentoCSharp.deps.json
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\TreinamentoCSharp\bin\Debug\net8.0\TreinamentoCSharp.runtimeconfig.json
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\TreinamentoCSharp\bin\Debug\net8.0\TreinamentoCSharp.dll
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\TreinamentoCSharp\bin\Debug\net8.0\TreinamentoCSharp.pdb
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\TreinamentoCSharp\obj\Debug\net8.0\TreinamentoCSharp.dll
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\TreinamentoCSharp\obj\Debug\net8.0\refint\TreinamentoCSharp.dll
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\TreinamentoCSharp\obj\Debug\net8.0\TreinamentoCSharp.pdb
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\TreinamentoCSharp\obj\Debug\net8.0\TreinamentoCSharp.genruntimeconfig.cache
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\TreinamentoCSharp\obj\Debug\net8.0\ref\TreinamentoCSharp.dll

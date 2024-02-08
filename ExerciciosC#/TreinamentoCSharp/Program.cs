@@ -1,18 +1,13 @@
 ﻿//Treinamento C#
 
-//Tipos de variaveis
+//Solicitando um valor String ao usuario
+using System.Text.RegularExpressions;
 
-//Variavel String
-string nomePessoa = "Alexa";
+Console.Write("Digite um valor (String): ");
+String valorDigitado = Console.ReadLine();
 
-//Variavel Integer
-int numeroInt = 69;
 
-//Variavel Double
-double numeroDouble = 6996;
-
-//Variavel Float
-float numeroFloat = 9669f;
-
-//Variavel Boolean
-bool alexaPeidou = true;
+if (!Regex.IsMatch(valorDigitado, "^[A-Za-z]+$"))
+{
+    Console.WriteLine("Erro! Vc digitou algum valor alem de Strings!");    
+}
