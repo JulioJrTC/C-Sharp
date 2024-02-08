@@ -1,0 +1,15 @@
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\Exercicio03\bin\Debug\net8.0\Exercicio03.exe
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\Exercicio03\bin\Debug\net8.0\Exercicio03.deps.json
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\Exercicio03\bin\Debug\net8.0\Exercicio03.runtimeconfig.json
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\Exercicio03\bin\Debug\net8.0\Exercicio03.dll
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\Exercicio03\bin\Debug\net8.0\Exercicio03.pdb
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\Exercicio03\obj\Debug\net8.0\Exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\Exercicio03\obj\Debug\net8.0\Exercicio03.AssemblyInfoInputs.cache
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\Exercicio03\obj\Debug\net8.0\Exercicio03.AssemblyInfo.cs
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\Exercicio03\obj\Debug\net8.0\Exercicio03.csproj.CoreCompileInputs.cache
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\Exercicio03\obj\Debug\net8.0\Exercicio03.sourcelink.json
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\Exercicio03\obj\Debug\net8.0\Exercicio03.dll
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\Exercicio03\obj\Debug\net8.0\refint\Exercicio03.dll
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\Exercicio03\obj\Debug\net8.0\Exercicio03.pdb
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\Exercicio03\obj\Debug\net8.0\Exercicio03.genruntimeconfig.cache
+F:\Educação\GitHub\C#\C-Sharp\ExerciciosC#\Exercicio03\obj\Debug\net8.0\ref\Exercicio03.dll
