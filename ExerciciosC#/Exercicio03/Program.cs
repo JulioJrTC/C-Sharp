@@ -8,7 +8,7 @@ while (true)
 {
     //Solicitando um valor numerico que será armazenando em uma variavel string
     Console.Write("Digite o primeiro numero: ");
-    String input1 = Console.ReadLine();
+    var input1 = Console.ReadLine();
 
     //Se não for possivel converter a variavel String para Int iremos exibir um erro (e se for, iremos armazenar o valor convertido em uma variavel Int)
     if (!int.TryParse(input1, out int n1))
@@ -19,7 +19,7 @@ while (true)
 
     //Solicitando um valor numerico que será armazenando em uma variavel string
     Console.Write("Digite o segundo numero: ");
-    String input2 = Console.ReadLine();
+    var input2 = Console.ReadLine();
 
     //Se não for possivel converter a variavel String para Int iremos exibir um erro (e se for, iremos armazenar o valor convertido em uma variavel Int)
     if (!int.TryParse(input2, out int n2))
