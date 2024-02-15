@@ -1,6 +1,9 @@
 ﻿//Desafio 05: Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
+
+//Greetings!
 Console.WriteLine("Bem vindo ao numerador da Prof(a) Alexa!");
 
+//Programa principal
 while (true)
 {
     //Solicitando um numero (e convertendo o valor inserido para Integer)
@@ -41,4 +44,3 @@ while (true)
     }
 
 }
-
