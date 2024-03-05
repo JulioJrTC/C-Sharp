@@ -9,6 +9,7 @@ Console.WriteLine("Bem vindo ao descontador de preço da Alexa!");
 //Declarando uma variavel String que iremos usar para tratarmos de possiveis erros
 string preco;
 
+//Tratamento de erro
 while (true)
 {
     //Solicitando um valor monetario ao usuario
