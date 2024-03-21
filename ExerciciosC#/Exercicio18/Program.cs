@@ -1,5 +1,6 @@
 ﻿/* Desafio 18: Faça um programa que leia um angulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse angulo. */
 
+//Greetings!
 Console.WriteLine("Bem vindo ao analizador de angulos, seno, cosseno e tangente da prof(a) Alexa!");
 
 //Declarando uma variavel para o Cateto Adjacente
@@ -60,4 +61,5 @@ double cosseno = co / hipo;
 //Tangente
 double tangente = co / ca;
 
+//Imprimindo o resultado
 Console.WriteLine($"\nSeno: {seno}\nCosseno: {cosseno}\nTangente: {tangente}.");
